@@ -7,12 +7,28 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+A program to help with sports tornaments. My son does a lot of sports and extra caricular activites. It would be nice to have a program that woud organize his boat races and things. Right now we have a guy with a white board and things get confusing when there is a tie or when there is an odd number of kids. 
+
+Each Troop or Team could log in add and store their players. It could build a tonament or season down to the championship match. Keep track of points for the season.
+
 ### Features
-Include Features here
+
+User Log in create players and attach them to teams.
+Scheduling races or games
+Create delete players from teams becuase of injery or illniess or new child comes to district.
+
+
 ### Technologies
-Include Technologies here
+Java
+Spring Boot
+MySQL
+Hibernate
+Thymeleaf templates
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+
+how to set up trnament and teams with od numbers in  fair way.
+front end 
+
 ### Project Tracker
 Link to your Trello board here
