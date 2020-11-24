@@ -12,23 +12,6 @@ A program to help with sports tornaments. My son does a lot of sports and extra 
 Each Troop or Team could log in add and store their players. It could build a tonament or season down to the championship match. Keep track of points for the season.
 
 ### Features
-
-User Log in create players and attach them to teams.
-Scheduling races or games
-Create delete players from teams becuase of injery or illniess or new child comes to district.
-
-
 ### Technologies
-Java
-Spring Boot
-MySQL
-Hibernate
-Thymeleaf templates
-
 ### What I'll Have to Learn
-
-how to set up trnament and teams with od numbers in  fair way.
-front end 
-
 ### Project Tracker
-Link to your Trello board here
